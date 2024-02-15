@@ -36,4 +36,4 @@ I have summarized my results in the summary section.
 
 **REFERENCES
 
-1.Used Microsoft support to run teh code across sheets and google to find its cooresponding actiavet across sheets synatx.
+1.Used Microsoft support to find worksheet activate and format percent functions.
